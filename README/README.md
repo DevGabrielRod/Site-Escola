@@ -13,7 +13,10 @@
 <h6 align="center">Autores:
 
 *Gabriel Rodrigues -> FullStack -> 2°Informática ->*gabrieljdev@gmail.com**
+<br>
 *Raphael Alexis Biver -> Front-End -> 2°Informática *ra.alexisbiver@gmail.com**
+<br>
 *Sérgio Alício -> Backend -> 3°Informática*
+<br>
 *Ana Caroline Santos -> Designer ->3°Informática*
 </h6>
