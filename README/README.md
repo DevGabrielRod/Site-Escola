@@ -12,11 +12,14 @@
 
 <h5 align="center">Autores:</h6>
 <p align="center">
-*Gabriel Rodrigues -> FullStack -> 2°Informática ->*gabrieljdev@gmail.com;**
+*Gabriel Rodrigues -> FullStack -> 2°Informática ->*gabrieljdev@gmail.com;**  
 <br>
 *Raphael Alexis Biver -> Front-End -> 2°Informática *ra.alexisbiver@gmail.com;**
 <br>
-*Sérgio Alício -> Backend -> 3°Informática;*
+*Sérgio Alício -> Backend -> 3°Informática -> *sergioalicio@gmail.com;**
 <br>
 *Ana Caroline Santos -> Designer ->3°Informática.*
-<p>
+<br>
+*Bruno Rafael Pereira Dutra -> Designer -> 3°Informática -> *brunolouzada86@gmail.com**
+</p>
+
